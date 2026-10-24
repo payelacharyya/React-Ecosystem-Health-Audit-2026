@@ -39,6 +39,14 @@ Examines maintenance activity and open issues to help identify libraries that ma
 3. Market and Migration Insights:
 Compares npm adoption, GitHub stars, developer job demand, and bundle size to support ecosystem assessment and migration planning.
 
+Dashboard Screenshots :
+### 1. Ecosystem Overview
+screenshots/dashboard1.png
+### 2. Risk and Migration Priorities
+screenshots/dashboard2.png
+### 3. Market and Migration Insights
+screenshots/dashboard3.png
+
 Key Findings:
 The analysis covers 20 libraries, classified as follows:
 - 16 Maintained
@@ -111,4 +119,6 @@ Limitations
   
 Skills Demonstrated
 SQL querying and aggregation · PostgreSQL data management · Data validation · DAX measures · Power BI dashboard design · KPI development · Exploratory data analysis · Analytical storytelling
+
+
 
