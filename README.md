@@ -41,11 +41,14 @@ Compares npm adoption, GitHub stars, developer job demand, and bundle size to su
 
 Dashboard Screenshots :
 ### 1. Ecosystem Overview
-screenshots/dashboard1.png
+![Dashboard 1](screenshots/dashboard1.png)
+
 ### 2. Risk and Migration Priorities
-screenshots/dashboard2.png
+![Dashboard 2](screenshots/dashboard2.png)
+
 ### 3. Market and Migration Insights
-screenshots/dashboard3.png
+![Dashboard 3](screenshots/dashboard3.png)
+
 
 Key Findings:
 The analysis covers 20 libraries, classified as follows:
