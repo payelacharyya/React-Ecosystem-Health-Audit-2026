@@ -1,4 +1,5 @@
-React Ecosystem Health Audit
+React Ecosystem Health Audit:
+
 An end-to-end data analytics project evaluating the health of selected React ecosystem libraries through adoption, maintenance activity, developer job demand, and migration considerations.
 
 Built using PostgreSQL, SQL, and Microsoft Power BI, this project transforms library-level data into actionable insights through interactive dashboards.
@@ -78,7 +79,6 @@ Prerequisites:
 - PostgreSQL
 - pgAdmin
 - Microsoft Power BI Desktop
-- 
 Step 1: Create the Database Table
 1. Create a PostgreSQL database.
 2. Open the Query Tool in pgAdmin.
